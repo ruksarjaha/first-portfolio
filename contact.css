@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1533134486753-c833f0ed4866?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80);
+
+}
+h1{
+    font-family: cursive;
+    text-align: center;
+    color:seashell;
+    font-size: 45px;
+    margin-top: 25px;
+    margin-bottom: 45px;
+}
+h2{
+    text-align: center;
+    color: seashell;
+    font-family: cursive;
+
+}
+p{
+    text-align: center;
+    color: seashell;
+    font-size: 25px;
+    font-family: cursive;
+    
+}
+.col-md-9{
+    justify-content: center;
+    margin-left: 160px;
+
+}
+label{
+    color: seashell;
+    font-family: cursive;
+    font-size: 15px;
+}
+.col-12{
+    text-align: center;
+    margin-top: 35px;
+
+}
