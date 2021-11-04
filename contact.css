@@ -38,3 +38,9 @@ label{
     margin-top: 35px;
 
 }
+a{
+    color: seashell;
+}
+a:hover{
+    color: lightslategray;
+}

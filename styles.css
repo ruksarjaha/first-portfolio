@@ -16,3 +16,9 @@ h1{
 p{
     font-size: 30px;
 }
+a{
+    color: seashell;
+}
+a:hover{
+    color: lightslategray;
+}
