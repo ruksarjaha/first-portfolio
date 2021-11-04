@@ -44,3 +44,8 @@ a{
 a:hover{
     color: lightslategray;
 }
+.btn{
+    background-color: seashell;
+    color: black;
+    width: 15%;
+}
